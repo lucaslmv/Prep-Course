@@ -1,0 +1,56 @@
+
+main {
+    margin:auto
+}
+
+
+
+h1 {
+    color: white;
+
+}
+
+img {
+    width: 400px;
+}
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: white;
+    padding: 50px;
+    border: 10px solid red;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
+
+.divPrincipal {
+   background-image: url(https://10619-2.s.cdn12.com/rests/original/103_507020493.jpg);
+}
+
+.divClass {
+    /* padding-left: 35%; */
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgba(255, 0, 0, 0.555);
+    color: white;
+    align-items: center;
+}
+.divClass1 {
+    display: flex;
+    justify-content: center;
+    background: rgba(245, 245, 245, 0.671);
+    color: red;
+    align-items: center;
+
+}
+.Menu {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
